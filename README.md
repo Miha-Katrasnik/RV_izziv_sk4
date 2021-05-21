@@ -6,4 +6,4 @@ Primeri videoposnetkov in prikaz delovanja se nahaja na povezavi:
 
 ## Program
 
-Program je namenjen avtomatskemu merjenju časa opravljanja preizkusa z edvetimi zatiči.
+Program je namenjen avtomatskemu merjenju časa opravljanja preizkusa z devetimi zatiči.
