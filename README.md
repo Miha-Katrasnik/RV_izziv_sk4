@@ -9,6 +9,14 @@ Testne videoposnetke naložite v mapo videos. V 9. vrstici lahko spremenite imen
 video_file = ['videos/MVI_6342.MOV', 'videos/MVI_6339.MOV'] #vrstni red: leva roka, desna roka
 ```
 
+Med delovanjem programa lahko s tipko <b>w</b> začasno ustavite program. Nato lahko prikažete različne slike:
+* d - razlika med trenutno in prvo sliko
+* t - upragovljena slika
+* f - barvna slika
+* 0 - prva slika posnetka
+
+S tipko q lahko video predčasno zaključite, lahko pa enostavno zaprete okno.
+
 ## Program
 
 Program je namenjen avtomatskemu merjenju časa opravljanja preizkusa z devetimi zatiči.
