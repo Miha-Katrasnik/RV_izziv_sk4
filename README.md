@@ -17,6 +17,6 @@ Med delovanjem programa lahko s tipko <b>w</b> začasno ustavite program. Nato l
 
 S tipko q lahko video predčasno zaključite, lahko pa enostavno zaprete okno.
 
-## Program
+## Opis programa
 
 Program je namenjen avtomatskemu merjenju časa opravljanja preizkusa z devetimi zatiči.
