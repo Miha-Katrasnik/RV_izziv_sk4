@@ -20,3 +20,10 @@ S tipko q lahko video predčasno zaključite, lahko pa enostavno zaprete okno.
 ## Opis programa
 
 Program je namenjen avtomatskemu merjenju časa opravljanja preizkusa z devetimi zatiči.
+
+## Knjižnice
+
+Za uporabo programa so potrebne knjižnice:
+* OpenCV
+* NumPy
+* Matplotlib
