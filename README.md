@@ -24,6 +24,6 @@ Program je namenjen avtomatskemu merjenju časa opravljanja preizkusa z devetimi
 ## Knjižnice
 
 Za uporabo programa so potrebne knjižnice:
-* OpenCV
+* OpenCV (testirano za verzijo 4.5.1)
 * NumPy
 * Matplotlib
