@@ -5,7 +5,8 @@ Primeri videoposnetkov in prikaz delovanja se nahaja na povezavi:
 <a href="https://drive.google.com/drive/folders/10Jd7BtdS0cPqYwX1KFjaPRAEqrXxwKll?usp=sharing" target="_blank">Google Drive</a>
 
 Testne videoposnetke naložite v mapo videos. V 9. vrstici datoteke <code>RV_seminarska.py</code> lahko spremenite imena datotek, ki jih želite uporabiti.
-```
+
+```python
 video_file = ['videos/MVI_6342.MOV', 'videos/MVI_6339.MOV'] #vrstni red: leva roka, desna roka
 ```
 
