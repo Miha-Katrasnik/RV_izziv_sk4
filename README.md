@@ -7,7 +7,7 @@ Primeri videoposnetkov in prikaz delovanja se nahaja na povezavi:
 Testne videoposnetke naložite v mapo videos. V 9. vrstici datoteke <code>RV_seminarska.py</code> lahko spremenite imena datotek, ki jih želite uporabiti.
 ```
 video_file = ['videos/MVI_6342.MOV', 'videos/MVI_6339.MOV'] #vrstni red: leva roka, desna roka
-```python
+```
 
 Med delovanjem programa lahko s tipko <b>w</b> začasno ustavite program. Nato lahko prikažete različne slike:
 * d - razlika med trenutno in prvo sliko
